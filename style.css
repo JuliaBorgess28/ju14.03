@@ -1,0 +1,33 @@
+body {background-color: rgb(235, 235, 109);}
+h1 {text-align: center;
+color: rgb(24, 10, 0);
+border-style: solid;
+border-color: rgb(88, 83, 0);
+}
+h2 {text-align: center;
+color:rgb(24, 10, 0);
+border-style: solid;
+border-color: rgb(88, 83, 0);
+}
+h3 {text-align: center;
+color:rgb(24, 10, 0);
+border: 5px;
+border-color: rgb(88, 83, 0);
+}
+#img1 {margin-left: 37%;
+border-color: rgb(223, 223, 3);
+border-width: 10px;
+border-style: groove;
+width:26% ;
+}
+#ima2 {margin-left: 37%;
+    border-color: rgb(223, 223, 3);
+    border-width: 10px;
+    border-style: groove;
+    width:26% ;
+    }
+ h4 {text-align: center;
+    color:rgb(24, 10, 0);
+    border: 5px;
+    border-color: rgb(88, 83, 0);
+}
